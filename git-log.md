@@ -4,3 +4,6 @@ Muestra el historial de los commits
 
 `git log --pretty=format:"%h - %an, %ar : %s"`
 Muestra el historial con el formato que indicamos.
+
+` git log --after="2018-02-07" --before="2018-02-08 00:09:35"`
+Muestra un rango de fecha
