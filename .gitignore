@@ -1,1 +1,4 @@
+# Estos archivos serán ignorados por git
+
 secreto.md
+a.out
