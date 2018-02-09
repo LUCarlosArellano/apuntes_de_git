@@ -22,3 +22,5 @@ gir config --global core.editor <editor>
 git config --list
 
 ```
+
+Esta línea fue creada en la rama master.
