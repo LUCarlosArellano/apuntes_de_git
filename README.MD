@@ -1,14 +1,14 @@
-## Curso Git desde cero
+# Curso Git desde cero
 Sistema de control de versiones para el mantenimiento eficiente y confiable de archivos
 
 
-### Zonas de Git
+## Zonas de Git
 
 1. Directorio de Trabajo
 2. Area de preparación
 3. Directorio Git
 
-### Flujo de trabajo básico en Git
+## Flujo de trabajo básico en Git
 
 1. Modificas una serie de archivos en tu directorio de trabajo.
 2. Preparas los archivos, añadiendolos a tu área de preparación.
@@ -20,7 +20,7 @@ git config --global user.name <nombre>
 git config --global user.email <email>
 gir config --global core.editor <editor>
 git config --list
-
 ```
 
-Esta línea fue creada en la rama master.
+## Aportes desde otra cuenta
+Este texto fue aportado desde la cuenta LUCarlosArellano
